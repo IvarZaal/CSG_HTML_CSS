@@ -1,0 +1,105 @@
+colofon
+        <header>
+            <h1>Brava Sailing Team</h1>
+            <div id="menustartpagina">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="verleden van de Brava.html">Verleden van de Brava</a>
+                        </li>
+                        <li>
+                            <a href="wat bieden wij aan.html">Wat bieden wij aan</a>
+                        </li>
+                        <li>
+                            <a href="technische feitjes Brava.html">Technische feitjes Brava</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+#menustartpagina {
+    width: 90%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    margin-left: 580px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #ffffff;
+    padding: 5px;
+}
+nav ul li {
+    margin: 20px;
+}
+
+nav ul li a:hover {
+    color: #ffd700;
+}
+ik liep een beetje vast bij het menu en heeft Thomas Rutgers me geholpen, vooral omdat ik moeite
+had met het menu in het midden en in de grijze balk te krijgen.
+
+ <div class="verhalen">
+                <table>
+                    <tr>
+                        <th>Eigenschap</th>
+                        <th>Waarde</th>
+                    </tr>
+                    <tr>
+                        <td>Project</td>
+                        <td>Farr Yacht Design</td>
+                    </tr>
+                    <tr>
+                        <td>Bouwer</td>
+                        <td>Cookson Yachts</td>
+                    </tr>
+                    <tr>
+                        <td>Lengte over alles (LOA)</td>
+                        <td>14,86 m</td>
+                    </tr>
+                    <tr>
+                        <td>Breedte (Beam)</td>
+                        <td>4,15 m</td>
+                    </tr>
+                    <tr>
+                        <td>Diepgang (Draft)</td>
+                        <td>3,10 m</td>
+                    </tr>
+                    <tr>
+                        <td>Waterverplaatsing (Displacement)</td>
+                        <td>8.300 kg</td>
+                    </tr>
+                    <tr>
+                        <td>Ballast</td>
+                        <td>2.500 kg</td>
+                    </tr>
+                    <tr>
+                        <td>Grootzeiloppervlak (Mainsail Area)</td>
+                        <td>85 m²</td>
+                    </tr>
+                    <tr>
+                        <td>Genua-oppervlak (Genova Area)</td>
+                        <td>74 m²</td>
+                    </tr>
+                    <tr>
+                        <td>Gennaker-oppervlak</td>
+                        <td>225 m²</td>
+                    </tr>
+                </table>
+            </div>
+Voor deze tabel wist ik precies wat ik wilde, maar vond ik dat het me veel tijd zou kosten.
+Dus heb ik de gegevens aan chatGPT https://chat.openai.com/ gegeven en gevraagd deze tabel voor mij te maken.
+de bijbehorende css heb ik wel zelf geschreven
+
+
+Verder heb ik voor de text zelf steeds een kort stukje geschreven en dan aan chatGPT
+gevraagt dit voor mij in een langere text te veranderen. zo heb ik wel veel opvulling 
+voor de website maar benm ik niet heel lang bezig geweest met de text.

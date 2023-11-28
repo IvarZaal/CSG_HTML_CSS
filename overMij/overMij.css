@@ -1,0 +1,67 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("https://www.zeilen.nl/app/uploads/2021/08/Schermafbeelding-2021-08-05-om-11.42.14.png");
+    background-size: cover;
+    background-position: center;
+    }
+    
+header {
+    background-color: #74747467;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+table a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 15px; 
+}
+
+p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+
+section {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+.inhoud {
+    max-width: 450px;
+    margin-block: 30px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
